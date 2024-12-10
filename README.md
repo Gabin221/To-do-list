@@ -11,6 +11,7 @@
   + une zone en dessous permet de regroupées les tâches validées mais non supprimées, l'idée étant de garder un historique de ce qui a été réalisé, utile par exemple dans un suivi pour un projet
 + éléments:
   + la mémoire est locale à la machine sur laquelle est installé l'application, la confidentialité étant la priorité de ce projet
+  + possibilité de faire des sous-listes
 + idées d'amélioration:
   + proposer à l'utilisateur de choisir entre mémoire locale on en ligne
   + proposer à l'utilisateur de choisir ou non de conserver les tâches terminées
